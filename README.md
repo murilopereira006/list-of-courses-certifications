@@ -46,7 +46,7 @@
 ### Tempest
 - **Turing day** | `Tempest` | 2025 | [here](https://github.com/murilopereira006/list-of-courses-certifications/blob/main/Tempest/Certificado_turing-day-2025-567673_Participa%C3%A7%C3%A3o_20-52-18.pdf) | hours: 7
 
-### Trybe | hours: 1500
+### Trybe | Total hours: 1500
 - **Fundamentals of Web Development** | `Trybe` | 2020 | [here](https://www.credential.net/ab22b5ba-b060-4572-8745-e6a316e4cb53#acc.Tl2Fb39c)
 - **Web Development** | `Trybe` | 2020 | [here](https://www.credential.net/6ba6f433-a3fa-43d8-b753-a56828ef007c#acc.tv1H5zhf)
 - **Front-End Development** | `Trybe` | 2020 | [here](https://www.credential.net/045edfcb-8e2d-46a9-99f5-8970cef03ca0#acc.TuKBAYiE)
