@@ -7,22 +7,27 @@
 
 ### Coursera
 
-#### Google Cybersecurity Professional Certificate | hours: 170
-- **Assets, Threats, and Vulnerabilities** | `Google` | 2024 | [here](https://www.coursera.org/account/accomplishments/professional-cert/4YV7TS1W1W31)
-- **Automate Cybersecurity Tasks with Python** | `Google` | 2024 | [here](https://github.com/murilopereira006/list-of-courses-certifications/blob/master/AWS/Coursera/Google%20Cybersecurity%20Professional%20Certificate/Automate%20Cybersecurity%20Tasks%20with%20Python.pdf)
-- **Connect and Protect: Networks and Network Security** | `Google` | 2024 | [here](https://github.com/murilopereira006/list-of-courses-certifications/blob/master/AWS/Coursera/Google%20Cybersecurity%20Professional%20Certificate/Connect%20and%20Protect%3A%20Networks%20and%20Network%20Security.pdf)
-- **Foundations of Cybersecurity** | `Google` | 2024 | [here](https://github.com/murilopereira006/list-of-courses-certifications/blob/master/AWS/Coursera/Google%20Cybersecurity%20Professional%20Certificate/Foundations%20of%20Cybersecurity.pdf)
-- **Play It Safe: Manage Security Risks** | `Google` | 2024 | [here](https://github.com/murilopereira006/list-of-courses-certifications/blob/master/AWS/Coursera/Google%20Cybersecurity%20Professional%20Certificate/Play%20It%20Safe%3A%20Manage%20Security%20Risks.pdf)
-- **Put It to Work: Prepare for Cybersecurity Jobs** | `Google` | 2024 | [here](https://github.com/murilopereira006/list-of-courses-certifications/blob/master/AWS/Coursera/Google%20Cybersecurity%20Professional%20Certificate/Put%20It%20to%20Work%3A%20Prepare%20for%20Cybersecurity%20Jobs.pdf)
-- **Sound the Alarm: Detection and Response** | `Google` | 2024 | [here](https://github.com/murilopereira006/list-of-courses-certifications/blob/master/AWS/Coursera/Google%20Cybersecurity%20Professional%20Certificate/Sound%20the%20Alarm%3A%20Detection%20and%20Response.pdf)
-- **Tools of the Trade: Linux and SQL** | `Google` | 2024 | [here](https://github.com/murilopereira006/list-of-courses-certifications/blob/master/AWS/Coursera/Google%20Cybersecurity%20Professional%20Certificate/Tools%20of%20Trade%3A%20Linux%20and%20SQL.pdf)
-- **Google Cybersecurity Professional Certificate (Complete)** | `Google` | 2024 | [here](https://github.com/murilopereira006/list-of-courses-certifications/blob/master/AWS/Coursera/Google%20Cybersecurity%20Professional%20Certificate/GoogleCybersecurityCertificate_Badge.pdf)
+#### Google Cybersecurity Professional Certificate | Total hours: 170 | [here](https://www.coursera.org/account/accomplishments/professional-cert/4YV7TS1W1W31)
+- **Foundations of Cybersecurity** | `Google` | 2024 | [here](https://www.coursera.org/account/accomplishments/verify/WH8MHYITGUQO) | hours: 9 - GPA: 94.52
+- **Play It Safe: Manage Security Risks** | `Google` | 2024 | [here](https://www.coursera.org/account/accomplishments/verify/1ANBN0LUIZHN) | hours: 9 - GPA: 88.75
+- **Connect and Protect: Networks and Network Security** | `Google` | 2024 | [here](https://www.coursera.org/account/accomplishments/verify/ZVO7HT4EMBHL) | hours: 11 - GPA: 88.12
+- **Tools of the Trade: Linux and SQL** | `Google` | 2024 | [here](https://www.coursera.org/account/accomplishments/verify/NOZ4MMECUT6V) | hours: 23 - GPA: 93.04
+- **Assets, Threats, and Vulnerabilities** | `Google` | 2024 | [here](https://www.coursera.org/account/accomplishments/verify/KX48ONOC7D8Z) | hours: 19 - GPA: 88.12
+- **Sound the Alarm: Detection and Response** | `Google` | 2024 | [here](https://www.coursera.org/account/accomplishments/verify/U6C8C4YMB82B) | hours: 17 - GPA: 87.71 
+- **Automate Cybersecurity Tasks with Python** | `Google` | 2024 | [here](https://www.coursera.org/account/accomplishments/verify/SOYRBQ5Q61ID) | hours: 24 - GPA: 82.22
+- **Put It to Work: Prepare for Cybersecurity Jobs** | `Google` | 2024 | [here](https://www.coursera.org/account/accomplishments/verify/EJC8EVRXHN7K) | hours: 10 - GPA: 91.40
 
-#### Google IT Support Professional Certificate | hours: 17
-- **Technical Support Fundamentals** | `Google` | 2024 | [here](https://github.com/murilopereira006/list-of-courses-certifications/blob/master/AWS/Coursera/Google%20IT%20Support%20Professional%20Certificate/Technical%20Support%20Fundamentals.pdf)
+#### Google UX Design Professional Certificate  | Total hours: 200 | [here](https://www.coursera.org/account/accomplishments/professional-cert/0S8LVL3HEHLA)
+- **Foundations of User Experience (UX) Design** | `Google` | 2025 | [here](https://www.coursera.org/account/accomplishments/verify/YSH557CNE7YP) | hours: 12 - GPA: 88.62
+- **Start the UX Design Process: Empathize, Define, and Ideate** | `Google` | 2025 | [here](https://www.coursera.org/account/accomplishments/verify/39XMVNRQVC8O) | hours: 19 - GPA: 89.37
+- **Build Wireframes and Low-Fidelity Prototypes** | `Google` | 2025 | [here](https://www.coursera.org/account/accomplishments/verify/Y4YYGIV1I5JX) | hours: 11 - GPA: 89.97
+- **Conduct UX Research and Test Early Concepts** | `Google` | 2025 | [here](https://www.coursera.org/account/accomplishments/verify/Z6ALRHD8NN11) | hours: 14 - GPA: 90.62
+- **Create High-Fidelity Designs and Prototypes in Figma** | `Google` | 2025 | [here](https://www.coursera.org/account/accomplishments/verify/P3RU11DRZQQ4) | hours: 19 - GPA: 91.31
+- **Build Dynamic User Interfaces (UI) for Websites** | `Google` | 2025 | [here](https://www.coursera.org/account/accomplishments/verify/75N7B8CTSW7R) | hours: 15 - GPA: 97.43
+- **Design a User Experience for Social Good & Prepare for Jobs** | `Google` | 2025 | [here](https://www.coursera.org/account/accomplishments/verify/2695SGTMX0S8) | hours: 13 - GPA: 98.35
 
-#### Google UX Design Professional Certificate  | hours: 200
-- **Google UX Design Professional Certificate** | `Google` | 2025 | [here](https://github.com/murilopereira006/list-of-courses-certifications/blob/master/Google%20UX%20Design%20Professional%20Certificate/GoogleUXDesignProfessionalCertificatev2_Badge20250711-27-zzyfwa.pdf)
+#### Google IT Support Professional Certificate | _in progress_
+- **Fundamentals of Technical Support** | `Google` | 2025 | [here](https://www.coursera.org/account/accomplishments/verify/9Y0RNI576C16) | hours: 24 - GPA: 96.92
 
 ### Fundação Estudar
 - **Certificado - Murilo Eduardo R. Pereira** | `Fundação Estudar` | [here](https://github.com/murilopereira006/list-of-courses-certifications/blob/master/Funda%C3%A7%C3%A3o%20Estudar/Certificado%20-%20Murilo%20Eduardo%20R.%20Pereira.pdf) | hours: 10
