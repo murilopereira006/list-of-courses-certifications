@@ -3,7 +3,8 @@
 ### AWS
 - **Bootcamp IA Generativa com AWS** | `AWS` | 2024 | [here](https://betrybe.com/badges/219E615AF4C4) | hours: 10
 
-### Cisco | hours: 120
+### Cisco
+- **Junior Cybersecurity Analyst Career Path** | `Cisco` | 2025 | [Badge](https://www.credly.com/badges/68df6f0e-290b-4dfd-9b6d-4004ae76107c/linked_in?t=sxeujc) and [certificate](https://www.netacad.com/certificates/?issuanceId=669676aa-7d2f-4e17-97c3-c321297dcfcc) | hours: 120
 
 ### Coursera
 
@@ -33,8 +34,8 @@
 - **Certificado - Murilo Eduardo R. Pereira** | `Fundação Estudar` | [here](https://github.com/murilopereira006/list-of-courses-certifications/blob/master/Funda%C3%A7%C3%A3o%20Estudar/Certificado%20-%20Murilo%20Eduardo%20R.%20Pereira.pdf) | hours: 10
 - **Certificado - Murilo Eduardo R. Pereira** | `Fundação Estudar` | [here](https://github.com/murilopereira006/list-of-courses-certifications/blob/master/Funda%C3%A7%C3%A3o%20Estudar/Certificado%20-%20Murilo%20Eduardo%20R.%20Pereira.pdf) | hours: 3
 
-### IBSEC
-- **Boas Práticas de Cibersegurança (Cybersecurity Awareness)** | `IBSEC` | 2025 | [here](https://github.com/murilopereira006/list-of-courses-certifications/blob/master/IBSEC/IC-SEC-1780_Boas%20Pr%C3%A1ticas%20de%20Ciberseguran%C3%A7a%20(Cybersecurity%20Awareness).pdf) | hours: 80
+### IBSEC - Instituto Brasileiro de Cibersegurança
+- **Boas Práticas de Cibersegurança (Cybersecurity Awareness)** | `IBSEC` | 2025 | [here](https://certs.ibsec.com.br/?cert_hash=22fc875ddbb111b0) | hours: 30
 
 ### OAB
 - **Certificado OAB SP** | `OAB` | [here](https://github.com/murilopereira006/list-of-courses-certifications/blob/master/OAB/CertificadoOabsp.pdf) | hours: 3
