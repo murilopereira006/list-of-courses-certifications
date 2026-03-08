@@ -1,7 +1,7 @@
 # Certifications ⭐
 
 ### AWS
-- **Bootcamp IA Generativa com AWS** | `AWS` | 2024 | [here](https://betrybe.com/badges/219E615AF4C4) | hours: 10
+- **Generative AI Bootcamp with AWS** | `AWS` | 2024 | [here](https://betrybe.com/badges/219E615AF4C4) | hours: 10
 
 ### Cisco
 - **Junior Cybersecurity Analyst Career Path** | `Cisco` | 2025 | [Badge](https://www.credly.com/badges/68df6f0e-290b-4dfd-9b6d-4004ae76107c/linked_in?t=sxeujc) and [certificate](https://www.netacad.com/certificates/?issuanceId=669676aa-7d2f-4e17-97c3-c321297dcfcc) | hours: 120
@@ -31,20 +31,20 @@
 - **Fundamentals of Technical Support** | `Google` | 2025 | [here](https://www.coursera.org/account/accomplishments/verify/9Y0RNI576C16) | hours: 24 - GPA: 96.92
 
 ### Fundação Estudar
-- **WORKSHOP DE PROCESSOS SELETIVOS 2024** | `Fundação Estudar` | 2024 | [here](https://github.com/murilopereira006/list-of-courses-certifications/blob/main/Fundacao%20Estudar/Certificado%20-%20Murilo%20Eduardo%20R.%20Pereira.pdf) | hours: 3
-- **Conexão Tech** | `Fundação Estudar` | 2024 | [here](https://github.com/murilopereira006/list-of-courses-certifications/blob/main/Fundacao%20Estudar/Certificado.%20-%20Murilo%20Eduardo%20R.%20Pereira.pdf) | hours: 10
+- **Selective Processes Workshop 2024** | `Fundação Estudar` | 2024 | [here](https://github.com/murilopereira006/list-of-courses-certifications/blob/main/Fundacao%20Estudar/Certificado%20-%20Murilo%20Eduardo%20R.%20Pereira.pdf) | hours: 3
+- **Tech Connection** | `Fundação Estudar` | 2024 | [here](https://github.com/murilopereira006/list-of-courses-certifications/blob/main/Fundacao%20Estudar/Certificado.%20-%20Murilo%20Eduardo%20R.%20Pereira.pdf) | hours: 10
 
-### IBSEC - Instituto Brasileiro de Cibersegurança
-- **Boas Práticas de Cibersegurança (Cybersecurity Awareness)** | `IBSEC` | 2025 | [here](https://certs.ibsec.com.br/?cert_hash=22fc875ddbb111b0) | hours: 30
+### IBSEC - Brazilian Cybersecurity Institute
+- **Cybersecurity Best Practices (Cybersecurity Awareness)** | `IBSEC` | 2025 | [here](https://certs.ibsec.com.br/?cert_hash=22fc875ddbb111b0) | hours: 30
 
 ### OAB
 - **Generative AI Course Applied to Law** | `OAB SP` | [here](https://github.com/murilopereira006/list-of-courses-certifications/blob/master/OAB/CertificadoOabsp.pdf) | hours: 3
 
 ### Solyd
-- **Pentest do Zero ao Profissional v2024 - SYCP** | `Solyd` | [here](https://solyd.com.br/verificar/WBVj5lOMnC) | hours: 250
+- **Pentest from Zero to Professional v2024 - SYCP** | `Solyd` | [here](https://solyd.com.br/verificar/WBVj5lOMnC) | hours: 250
 
 ### Tempest
-- **Turing day** | `Tempest` | 2025 | [here](https://github.com/murilopereira006/list-of-courses-certifications/blob/main/Tempest/Certificado_turing-day-2025-567673_Participa%C3%A7%C3%A3o_20-52-18.pdf) | hours: 7
+- **Turing Day** | `Tempest` | 2025 | [here](https://github.com/murilopereira006/list-of-courses-certifications/blob/main/Tempest/Certificado_turing-day-2025-567673_Participa%C3%A7%C3%A3o_20-52-18.pdf) | hours: 7
 
 ### Trybe | Total hours: 1504
 - **Fundamentals of Web Development** | `Trybe` | 2020 | [here](https://www.credential.net/ab22b5ba-b060-4572-8745-e6a316e4cb53#acc.Tl2Fb39c)
@@ -52,9 +52,9 @@
 - **Front-End Development** | `Trybe` | 2020 | [here](https://www.credential.net/045edfcb-8e2d-46a9-99f5-8970cef03ca0#acc.TuKBAYiE)
 - **Back End Development** | `Trybe` | 2021 | [here](https://www.credential.net/2b51cb49-aea5-4bb0-89f7-c486c48dfbaf#acc.rAx0jDnV)
 - **Computer Science** | `Trybe` | 2021 | [here](https://www.credential.net/5f442d9a-e9bb-44fb-9ffe-0e5b29fc043b#acc.4imPLQWN)
-- **Curso IA na Prática** | `Trybe` | 2023 | [here](https://betrybe.com/badges/16A52CA6B1B8) | hours: 4
+- **AI in Practice Course** | `Trybe` | 2023 | [here](https://betrybe.com/badges/16A52CA6B1B8) | hours: 4
 
 ### Udemy
-- **Algorithms e Lógica de Programação** | `Udemy` | [here](https://github.com/murilopereira006/list-of-courses-certifications/blob/main/Udemy/Algoritmos%20e%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o.pdf) | hours: 29
-- **Crie sites profissionais com WordPress** | `Udemy` | [here](https://github.com/murilopereira006/list-of-courses-certifications/blob/main/Udemy/Crie%20sites%20profissionais%20com%20Wordpress.pdf) | hours: 24
+- **Algorithms and Programming Logic** | `Udemy` | [here](https://github.com/murilopereira006/list-of-courses-certifications/blob/main/Udemy/Algoritmos%20e%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o.pdf) | hours: 29
+- **Create Professional Websites with WordPress** | `Udemy` | [here](https://github.com/murilopereira006/list-of-courses-certifications/blob/main/Udemy/Crie%20sites%20profissionais%20com%20Wordpress.pdf) | hours: 24
 - **The Complete Guide to Building Premium WordPress Themes** | `Udemy` | [here](https://github.com/murilopereira006/list-of-courses-certifications/blob/main/Udemy/The%20Complete%20Guide%20to%20Building%20Premium%20WordPress%20Themes.pdf) | hours: 18
