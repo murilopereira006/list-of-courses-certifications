@@ -38,13 +38,19 @@
 - **Cybersecurity Best Practices (Cybersecurity Awareness)** | `IBSEC` | 2025 | [here](https://certs.ibsec.com.br/?cert_hash=22fc875ddbb111b0) | hours: 30
 
 ### OAB
-- **Generative AI Course Applied to Law** | `OAB SP` | [here](https://github.com/murilopereira006/list-of-courses-certifications/blob/master/OAB/CertificadoOabsp.pdf) | hours: 3
+- **Generative AI Course Applied to Law** | `OAB SP` | 2025 | | [here](https://github.com/murilopereira006/list-of-courses-certifications/blob/master/OAB/CertificadoOabsp.pdf) | hours: 3
 
 ### Solyd
 - **Pentest from Zero to Professional v2024 - SYCP** | `Solyd` | [here](https://solyd.com.br/verificar/WBVj5lOMnC) | hours: 250
 
 ### Tempest
 - **Turing Day** | `Tempest` | 2025 | [here](https://github.com/murilopereira006/list-of-courses-certifications/blob/main/Tempest/Certificado_turing-day-2025-567673_Participa%C3%A7%C3%A3o_20-52-18.pdf) | hours: 7
+
+### PUC
+- **III Neuroscience Week** | `PUC` | 2026 | [here](https://grupoa.education/certificates/view/b7140a63-22ce-4058-ba94-b461a580b2b3) | hours: 8
+
+### Foreducation EdTech
+- **Workspace Studio Google Partner** | 2026 | `Foreducation EdTech` | [here](https://github.com/murilopereira006/list-of-courses-certifications/blob/main/Foreducation%20EdTech/Certificado%20Foreducation%20EdTech%20-%20MURILO%20EDUARDO%20R.%20PEREIRA%20%20-%20FDT062604027.pdf) | hours: 4
 
 ### Trybe | Total hours: 1504
 - **Fundamentals of Web Development** | `Trybe` | 2020 | [here](https://www.credential.net/ab22b5ba-b060-4572-8745-e6a316e4cb53#acc.Tl2Fb39c)
